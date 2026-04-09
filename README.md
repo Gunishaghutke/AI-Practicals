@@ -1,6 +1,6 @@
 # Artificial Intelligence Lab Practicals
 
-- 👨🎓 **Name:** Abhay Katre
+- 👨🎓 **Name:** Gunisha Ghutke
 - 📘 **Subject:** Artificial Intelligence  
 - 💻 **Repository:** AI Practicals Collection
 
